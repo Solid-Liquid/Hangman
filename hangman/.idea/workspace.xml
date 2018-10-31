@@ -2,22 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5bac875-78f1-4a10-9437-87197b09f132" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/hangman/Game$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/hangman/Game$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/hangman/Game$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/hangman/Game$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/hangman/Game$GameStatus$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/hangman/Game$GameStatus$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/hangman/Game$GameStatus$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/hangman/Game$GameStatus$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/hangman/Game$GameStatus$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/hangman/Game$GameStatus$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/hangman/Game$GameStatus$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/hangman/Game$GameStatus$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/hangman/Game$GameStatus$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/hangman/Game$GameStatus$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/hangman/Game$GameStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/hangman/Game$GameStatus.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/hangman/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/hangman/Game.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/hangman/GameController$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/hangman/GameController$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/hangman/GameController$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/hangman/GameController$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/hangman/GameController.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/hangman/GameController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/hangman/Hangman.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/hangman/Hangman.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/hangman/Hangman.css" beforeDir="false" afterPath="$PROJECT_DIR$/bin/hangman/Hangman.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hangman/Hangman.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/hangman/Hangman.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -159,8 +143,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/hangman/Hangman.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+            <state relative-caret-position="337">
+              <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -359,12 +343,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1513726506889</updated>
-      <workItem from="1540956516766" duration="672000" />
+      <workItem from="1540956516766" duration="952000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="672000" />
+    <option name="totallyTimeSpent" value="952000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1370" height="745" extended-state="0" />
@@ -481,8 +465,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/hangman/Hangman.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+        <state relative-caret-position="337">
+          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
         </state>
       </provider>
     </entry>
